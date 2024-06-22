@@ -13,5 +13,5 @@ This Perl script allows you to download an MP3 file from a specified URL using S
    Clone this repository to your local machine using Git:
 
    ```sh
-   git clone https://github.com/your-username/perl-mp3-downloader.git
-   cd perl-mp3-downloader
+   git clone https://github.com/b17w1z4rd/perl-mp3.git
+   cd perl-mp3
